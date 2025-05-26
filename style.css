@@ -101,7 +101,7 @@ h1 {
 .price {
     font-size: 1.25rem;
     font-weight: bold;
-    color: #2c5282;
+    color: #A27B5C;
     margin: 1rem 0;
     display: inline-block;
     vertical-align: middle;
@@ -109,7 +109,7 @@ h1 {
 }
 
 .add-to-cart {
-    background-color: #A27B5C;
+    background-color: #2c5282 ;
     color: white;
     border: none;
     padding: 0.8rem 1.5rem;
